@@ -1,5 +1,7 @@
 # MAMUT-routing
 
+> **Archive.** This repository is the read-only archive of MAMUT-routing as it was until November 2026, with its complete history. It holds the benchmark data in the former layout, `benchmarks/<ProblemType>/<Family>/`, which `mamut-routing-lib` 0.12 and earlier read. The live project is [ANR-MAMUT/MAMUT-routing](https://github.com/ANR-MAMUT/MAMUT-routing). There, each benchmark family is its own repository mounted at `benchmarks/<Family>/`, and the history was rewritten without the benchmark files. A commit identifier of MAMUT-routing cited before November 2026 refers to a commit of this archive. Nothing below this notice is maintained.
+
 Curated CVRP, VRPTW, TDVRPTW and TDVRP benchmarks and the fully static benchmark website that visualizes instances and routes, all in one repository. Instance generation and solving run locally with [MAMUT-routing-tools](https://github.com/ANR-MAMUT/MAMUT-routing-tools).
 
 [![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/ANR-MAMUT/MAMUT-routing/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/ANR-MAMUT/MAMUT-routing)
